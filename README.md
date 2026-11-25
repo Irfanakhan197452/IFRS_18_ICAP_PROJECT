@@ -1,0 +1,2 @@
+# IFRS_18_ICAP_PROJECT
+AGENTIC AI Assignment
